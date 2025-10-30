@@ -1,0 +1,44 @@
+Uri: https://bbtkoleji.com/
+File Name: C:\Downloaded Web Sites\bbtkoleji.com\index.htm
+Content Type: text/html
+
+Uri: https://cdn.kursadresi.com/app/hls.min.js
+File Name: C:\Downloaded Web Sites\bbtkoleji.com\app\hls.min.js
+Content Type: application/javascript
+
+Uri: https://cdn.kursadresi.com/pdf.worker.min.js
+File Name: C:\Downloaded Web Sites\bbtkoleji.com\pdf.worker.min.js
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;500;700&display=swap
+File Name: C:\Downloaded Web Sites\bbtkoleji.com\css2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/icon?family=Material+Icons
+File Name: C:\Downloaded Web Sites\bbtkoleji.com\icon
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/materialicons/v145/flUhRq6tzZclQEJ-Vdg-IuiaDsNZ.ttf
+File Name: C:\Downloaded Web Sites\bbtkoleji.com\s\materialicons\v145\flUhRq6tzZclQEJ-Vdg-IuiaDsNZ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLCz7V1s.ttf
+File Name: C:\Downloaded Web Sites\bbtkoleji.com\s\poppins\v24\pxiByp8kv8JHgFVrLCz7V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLDz8V1s.ttf
+File Name: C:\Downloaded Web Sites\bbtkoleji.com\s\poppins\v24\pxiByp8kv8JHgFVrLDz8V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLFj_V1s.ttf
+File Name: C:\Downloaded Web Sites\bbtkoleji.com\s\poppins\v24\pxiByp8kv8JHgFVrLFj_V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLGT9V1s.ttf
+File Name: C:\Downloaded Web Sites\bbtkoleji.com\s\poppins\v24\pxiByp8kv8JHgFVrLGT9V1s.ttf
+Content Type: font/ttf
+
+Uri: https://vjs.zencdn.net/6.6.0/video-js.css
+File Name: C:\Downloaded Web Sites\bbtkoleji.com\6.6.0\video-js.css
+Content Type: text/css
+
